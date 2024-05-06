@@ -21,7 +21,7 @@
   - [📝 Licencia ](#-license-)
 
 
-## 📖 Acerca del proyecto - e_nstruments Music Shop Web App <a name="about-project"></a>
+## 📖 Acerca del proyecto - ScreenMatch - Evaluación de películas <a name="about-project"></a>
 
 Esta es una app llamada ScreenMatch, desarrollada con Java, la cual permite calcular el promedio de la evaluación de una película por parte de los usuarios.
 
