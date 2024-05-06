@@ -14,7 +14,7 @@
     - [Tech Stack ](#tech-stack-)
     - [Principales Características ](#key-features-)
     - [Demo (video)](#live-demo)
-  - [💻 Getting Started ](#-getting-started-)
+  - [💻 Guía de Inicio ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Uso](#usage)
   - [👥 Autores ](#-authors-)
