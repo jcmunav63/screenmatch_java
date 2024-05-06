@@ -48,7 +48,7 @@ Esta es una app llamada ScreenMatch, desarrollada con Java, la cual permite calc
 
 Link al video: <a href="https://drive.google.com/file/d/1DWoWCXuHEJfmfYRIGpnLvwYyjnR4lEuR/view?usp=sharing">Live demo en video (ScreenMatch)</a>
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Guía de Inicio <a name="getting-started"></a>
 
 Puedes utilizar esta aplicación si procedes a clonar el siguiente repositorio...
 
